@@ -1,5 +1,8 @@
 # **VideoChatGPT- Elevating Communication through Interactive Video**
 
+For more Details You can refer the paper,
+
+
 ```
 Run with Colab,
 > Simply run the Video_chat.ipynb File in your colab.
