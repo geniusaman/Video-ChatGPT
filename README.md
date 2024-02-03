@@ -1,7 +1,6 @@
 # **VideoChatGPT- Elevating Communication through Interactive Video**
 
-For more Details You can refer the paper,
-
+For more Details You can refer the [paper](https://arxiv.org/pdf/2305.06355.pdf),
 
 ```
 Run with Colab,
