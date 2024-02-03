@@ -1,4 +1,4 @@
-# **Video Chat**
+# **VideoChatGPT- Elevating Communication through Interactive Video**
 
 ```
 Run with Colab,
